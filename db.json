@@ -6,7 +6,9 @@
   ],
   "comments": [
     { "id": 1, "text": "some comment1", "postId": 1 },
-    { "id": 2, "text": "some comment2", "postId": 1 }
+    { "id": 2, "text": "some comment2", "postId": 1 },
+ { "id": 2, "text": "some comment2", "postId": 2 }
+ { "id": 2, "text": "some comment2", "postId": 2 }
   ],
   "profile": {
     "name": "typicode"
